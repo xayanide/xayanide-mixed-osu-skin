@@ -3,9 +3,7 @@ My lightweight mixed osu! skin for osu! standard.
 
 ## Current state
 - In progress...
-- Replace mod icons
-- Replace ranking letters
-- Recreate followpoint
+- Check `todo.md`
 
 ## Variants
 - **instafade** - download this one first, the one I always use all-round. no mod, easy mod, hidden mod, double time mod
