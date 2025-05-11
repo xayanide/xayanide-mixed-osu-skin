@@ -4,3 +4,5 @@
 - replace mod icons
 - replace ranking letters
 - complete credits-licenses.txt
+- create SD elements from @2x
+- find a way to get rid of the rotating panel lights from ranking panel
