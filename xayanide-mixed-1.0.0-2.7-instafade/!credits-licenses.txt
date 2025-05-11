@@ -1,0 +1,334 @@
+This is the credits and licenses of the following osu! skin(s):
+    - xayanide-mixed-{n.n.n}-{n.n}-{x}
+
+osu! skin author(s):
+    - xayanide
+
+My lightweight mixed osu! skin for osu! standard.
+
+Some elements were made by me (xayanide).
+I do not own some of its elements, but all of that will be cleared up in this document.
+
+This osu! skin is focused for low-end hardware, straightforwardness, intuitiveness, playability and gameplay.
+Because of that, it's forced to look minamalistic, low quality, with some elements looking slightly pixelated and doesn't have anything good to look at like arts and anime girls.
+
+What makes this different:
+- 5 Variants: classic, classic-nc, instafade, instafade-nc, mapping
+- Low overall .osk file size
+- No redundant elements. It doesn't have a lot of visually or audibly distracting elements
+- Blank transparent images all consume 95 bytes in file size
+- Blank sounds all consume 44 bytes in file size
+- Contains high-definition (@2x) visual elements.
+
+Credits and acknowledgements:
+Newnew008
+    - osu! profile: https://osu.ppy.sh/users/456788
+    - description: The player I believe to be the primary source of their osu! skin's hitcircles and hitsounds. This needs further confirmation.
+-_Heatwave_-
+    - osu! profile: https://osu.ppy.sh/users/4166621
+    - description: The player whose use of Newnew008's osu! skin first caught my interest.
+Corne2Plum3
+    - osu! profile: https://osu.ppy.sh/users/15646039
+    - description: I took an interest of their "- Night05 ⟦NM1⟧ - (v1.1)" osu! skin's "!credits-license.txt" file and used it as a template. osu! skin can be found at https://osu.ppy.sh/community/forums/topics/1292097
+CrispySquirrel
+    - osu! profile: https://osu.ppy.sh/users/17664661
+    - description: osu! skin elements. osu!pure osu! skin (Temporary). osu! skin can be found at https://osu.ppy.sh/community/forums/topics/1227826
+Galvit
+    - osu! profile: https://osu.ppy.sh/users/7629682
+    - description: osu! skin elements. Template osu! skin (Temporary). osu! skin can be found at https://osu.ppy.sh/community/forums/topics/923143
+
+Blank .wav sound file
+    - URL(s):
+        - http://up.ppy.sh/files/blank.wav
+        - https://osu.ppy.sh/community/forums/posts/508982
+    - License(s):
+        - Unknown
+
+Sections:
+    1. GENERAL
+    2. LICENSES
+    3. SOURCES
+    4. FONTS
+    5. IMAGES
+    6. SOUNDS
+
+1. GENERAL
+There is the list of all external assets (with their licenses) used on this osu! skin.
+If an element doesn't appear in the list, that means I (xayanide) fully made, and own the elements (see SOURCES section for more details).
+
+2. LICENSES
+- xayanide-mixed osu! skin license
+You are free to use the elements of this osu! skin for osu! or osu! related content. You may use them even if you release it as your 'own' osu! skin.
+I would appreciate it if you mention me :>
+For other usages, take care of the list below (see SOURCES section), so you will not have problems.
+
+If an element isn't in the section IMAGES or SOUNDS, that means:
+    - It's a blank transparent 1x1 image.
+    - It's a blank sound.
+
+- osu! default skin assets license
+All osu! graphic and other game assets are copyright ppy Pty Ltd.
+
+You are granted permission to use the elements contained within this archive as a template for creating your own skins. You can modify these in any way you see fit. Please do not include the resources if you haven't modified them; the defaults will automatically be used in this case.
+
+You are NOT permitted to use these graphics outside of skins and/or beatmaps. This includes using them on other websites, games, products etc.
+
+If you would like to use the resources outside of the scope provided above, please contact me at pe@ppy.sh
+
+3. SOURCES:
+This is the list of the websites where the assets are from. Each source have their have own licenses.
+
+- osu!
+    - URL(s):
+        - https://osu.ppy.sh
+        - https://osu.ppy.sh/community/forums
+    - License(s):
+        - Unknown
+
+- uppy
+    - URL(s):
+        - http://up.ppy.sh
+    - License(s):
+        - Unknown
+
+- osuskinner
+    - URL(s):
+        - https://osuskinner.com
+    - License(s):
+        - Unknown
+
+- skinship
+    - URL(s):
+        - https://skinship.xyz/resources
+        - https://skinship.xyz
+    - License(s):
+        - Unknown
+
+4. FONTS:
+This section includes licenses of fonts used in the osu! skin.
+
+- Unknown font name
+    - Element(s):
+        - mode-osu-med
+        - mode-osu-small
+    - Author(s):
+        - Unknown
+    - License(s):
+        - Unknown
+
+- Unknown font name
+    - Element(s):
+        - score-0
+        - score-1
+        - score-2
+        - score-3
+        - score-4
+        - score-5
+        - score-6
+        - score-7
+        - score-8
+        - score-9
+        - score-comma
+        - score-dot
+        - score-ercent
+        - score-x
+    - Author(s):
+        - Unknown
+    - License(s):
+        - Unknown
+
+- Cascadia Mono
+    - Element(s):
+        - arrow-warning
+        - arrow-pause
+        - fail-background
+        - hit0
+        - hi50
+        - hit100
+        - hit100k
+        - hit300
+        - hit300g
+        - hit300k
+        - menu-back
+        - multi-skipped
+        - pause-back
+        - pause-continue
+        - pause-overlay
+        - pause-replay
+        - pause-retry
+        - play-skipped
+        - play-unranked
+        - ranking-accuracy
+        - ranking-graph
+        - ranking-maxcombo
+        - ranking-panel
+        - ranking-perfect
+        - ranking-winner
+        - section-fail
+        - section-pass
+        - selection-mode
+        - selection-mode-over
+        - selection-mods
+        - selection-mods-over
+        - selection-options
+        - selection-options-over
+        - selection-random
+        - selection-random-over
+        - spinner-clear
+    - Author(s):
+        - Microsoft Corporation
+    - License(s):
+        - https://github.com/microsoft/cascadia-code/blob/56bcca3f2c1e4cb19458954f0e2bb4635960df91/LICENSE
+        - https://openfontlicense.org
+
+5. IMAGES:
+This section includes sources of images used in the osu! skin.
+
+- osu! default skin
+    - Element(s):
+        - score-0
+        - score-1
+        - score-2
+        - score-3
+        - score-4
+        - score-5
+        - score-6
+        - score-7
+        - score-8
+        - score-9
+        - score-comma
+        - score-dot
+        - score-ercent
+        - score-x
+        - mode-fruits-med
+        - mode-fruits-small
+        - mode-mania-med
+        - mode-mania-small
+        - mode-osu-med
+        - mode-osu-small
+        - mode-taiko-med
+        - mode-taiko-small
+        - welcome-text
+        - menu-background
+    - URL(s):
+        - https://osu.ppy.sh/community/forums/topics/129191
+    - Author(s):
+        - ppy Pty Ltd
+        - Dean Herbert
+        - peppy
+        - ppy
+    - License(s):
+        - osu! default skin assets license (See LICENSES section for more information)
+
+- osu!pure osu! skin
+    - Element(s):
+        - ranking-a
+        - ranking-a-small
+        - ranking-b
+        - ranking-b-small
+        - ranking-c
+        - ranking-c-small
+        - ranking-d
+        - ranking-d-small
+        - ranking-s
+        - ranking-s-small
+        - ranking-sh
+        - ranking-sh-small
+        - ranking-x
+        - ranking-x-small
+        - ranking-xh
+        - ranking-xh-small
+    - URL(s):
+        - https://osu.ppy.sh/community/forums/topics/1227826
+    - Author(s):
+        - https://osu.ppy.sh/users/17664661
+    - License(s):
+        - Unknown
+
+- Template osu! skin
+    - Element(s):
+        - selection-mod-autoplay
+        - selection-mod-cinema
+        - selection-mod-doubletime
+        - selection-mod-easy
+        - selection-mod-flashlight
+        - selection-mod-halftime
+        - selection-mod-hardrock
+        - selection-mod-hidden
+        - selection-mod-nightcore
+        - selection-mod-nofail
+        - selection-mod-perfect
+        - selection-mod-relax
+        - selection-mod-relax2
+        - selection-mod-scorev2
+        - selection-mod-spunout
+        - selection-mod-suddendeath
+        - selection-mod-target
+    - URL(s):
+        - https://osu.ppy.sh/community/forums/topics/923143
+    - Author(s):
+        - https://osu.ppy.sh/users/17664661
+    - License(s):
+        - Unknown
+
+- Unknown origin
+    - Element(s):
+        - followpoint-1
+        - followpoint-2
+    - URL(s):
+        - https://osuskinner.com/standard/followpoint
+    - Author(s):
+        - Unknown
+    - License(s):
+        - Unknown
+
+6. SOUNDS
+This section includes credits for all sounds from the osu! skin.
+
+- Unknown origin
+    - Element(s):
+        - combobreak
+        - drum-hitclap
+        - drum-hitfinish
+        - drum-hitnormal
+        - drum-hitwhistle
+        - drum-slidertick
+        - normal-hitclap
+        - normal-hitfinish
+        - normal-hitnormal
+        - normal-hitwhistle
+        - normal-slidertick
+        - metronomelow
+        - soft-hitclap
+        - soft-hitfinish
+        - soft-hitnormal
+        - soft-hitwhistle
+        - soft-slidertick
+        - spinnerbonus
+    - URL(s):
+        - Unknown
+    - Author(s):
+        - Unknown
+    - License(s):
+        - Unknown
+
+- osu! default skin
+    - Element(s):
+        - match-confirm
+        - match-join
+        - match-leave
+        - match-notready
+        - match-ready
+        - match-start
+        - seeya
+        - shutter
+        - welcome
+    - URL(s):
+        - https://osu.ppy.sh/community/forums/topics/129191
+    - Author(s):
+        - ppy Pty Ltd
+        - Dean Herbert
+        - peppy
+        - ppy
+    - License(s):
+        - osu! default skin assets license (See LICENSES section for more information)
