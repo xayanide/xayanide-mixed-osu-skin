@@ -2,7 +2,17 @@
 My lightweight mixed osu! skin for osu! standard.
 
 ## Current state
-- In-progress..
+- In progress...
+- Replace mod icons
+- Replace ranking letters
+- Recreate followpoint
+
+## Variants
+- **instafade** - download this one first, the one I always use all-round. no mod, easy mod, hidden mod, double time mod
+- **instafade-nc** - same as instafade, but with nightcore sounds for nightcore mod
+- **classic** - non-instafade, an attempt to recreate the instafade hitcircles. I barely use this at all. Can help with easy mod.
+- **classic-nightcore** - same as classic, but with nightcore sounds for nightcore mod
+- **classic-mapping** - same as classic, but with nightcore and hit sound samples for mapping
 
 ## Prerequisites
 - [osu! stable](https://osu.ppy.sh/home/download) (or [osu! lazer](https://github.com/ppy/osu))
@@ -52,17 +62,13 @@ With Speakers Properties open, go to each specified tab then go to:
 **Spatial Sound -> Spatial sound format**
 - Select `Off`.
 
-## Known Instafade Issues
-- After hitcircle combo 9, the hitcircle numbers overlaps with each other
-> [!NOTE]
-> This will not be worked on. This is a known issue to all osu! skins that have instantly fading hitcircles.
-
-## Feature Overview
-
-- [Instantly fading hitcircles](https://skinship.xyz/guides/insta_fade_hc)
-- Hitcircle colored between red and orange
+## osu! skin Feature Overview
+- **instafade**: [Instantly fading hitcircles](https://skinship.xyz/guides/insta_fade_hc)
+- **instafade**:  Hitcircle colored between red and orange
+- **instafade**: One white combo color only
 - Obvious ranking letters
 - Increased distinction on song selection menu
+- Skin.ini version 2.6
 - No redundant visual elements (e.g., anime girl on score screen, aesthetics on song selection)
 - No slider follow circle
 - No slider end circle
@@ -84,17 +90,20 @@ With Speakers Properties open, go to each specified tab then go to:
 - Default slider tick sounds
 - Default in-game leaderboard font
 - Thin follow points
-- One white combo color only
-- Numbers for hitcircle numbers
-- Health bar with similar length and width to osu! Default skin's health bar
-- Small score and combo number elements
+- Numbers on hitcircles
+- Health bar with similar length and thickness to osu! Default skin's health bar
+- Small score and combo number elements (downscaled from osu! default skin's elements)
+
+## Known Issues
+- **instafade**: After hitcircle combo 9, the hitcircle numbers overlaps with each other
+> [!NOTE]
+> This will not be worked on. This is a known issue to all osu! skins that have instantly fading hitcircles.
 
 ## Contributing
 Anything meaningful would be great! Make sure the checks are passing, and there are no reasons to deny your pull request.
 
 ## Other Remarks
 This osu! skin used to be stuck at skin.ini version 2.0 due to outdated `star`, `play-warningarrow` and `menu-button-background` osu! skin elements. Now, it supports `2.6` and newer versions! For more information about skin.ini versions, see https://osu.ppy.sh/wiki/en/Skinning/skin.ini#versions
-
 
 ### Disclaimer
 This osu! skin neither guarantees a drastic increase in performance nor does it instantly make you a better player in osu! standard.
