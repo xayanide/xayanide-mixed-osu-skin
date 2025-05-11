@@ -68,7 +68,7 @@ With Speakers Properties open, go to each specified tab then go to:
 - **instafade**: One white combo color only
 - Obvious ranking letters
 - Increased distinction on song selection menu
-- Skin.ini version 2.6
+- Skin.ini version 2.7
 - No redundant visual elements (e.g., anime girl on score screen, aesthetics on song selection)
 - No slider follow circle
 - No slider end circle
