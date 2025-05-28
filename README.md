@@ -53,10 +53,6 @@ These settings are from Windows 10.
 
 With Speakers Properties open, go to each specified tab then go to:
 
-**Advanced -> Default Format**
-- Select `24 bit, 48000 Hz (Studio Quality)`
-> `24 bit, 48000 Hz (Studio Quality)` is a middle ground choice.
-
 **Spatial Sound -> Spatial sound format**
 - Select `Off`.
 
