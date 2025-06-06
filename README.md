@@ -38,7 +38,7 @@ You can find the hitsounds here (from the osu-resources repo):
 GitHub Directory:
 https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Gameplay/ArgonPro
 
-These hitsounds are licensed — see the license section for details:
+These hitsounds are licensed, see the license section for details:
 https://github.com/ppy/osu-resources?tab=readme-ov-file#licence
 
 ### Recommended osu! settings for this osu! skin
