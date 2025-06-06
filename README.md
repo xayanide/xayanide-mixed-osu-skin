@@ -30,10 +30,16 @@ My lightweight mixed osu! skin for osu! standard.
 3. At `Current skin`, select the osu! skin.
 
 ## Hitsounds
-You can replace them with the ones you like, however I instead suggest you first replacing them with osu! lazer's Argon Pro osu! skin hitsound pack, see if you like it. I usually make a copy of my osu! mixed skin but with different hitsounds. Find a way to download them from this directory:
+You can replace them with hitsounds you prefer, but I suggest first trying the **Argon Pro hitsound pack** from osu!lazer. These are the official hitsounds made by the osu! team, and they follow their own recommended standards which likely ensures higher and more consistent quality (e.g. no leading delays, recommended volume levels, clean mastering) compared to third-party hitsounds from community-made skins, they sound good too imo.
+
+To test them, I recommend duplicating your current mixed skin and swapping only the hitsounds, so you can compare them without losing your original setup.
+
+You can find the hitsounds here (from the osu-resources repo):
+GitHub Directory:
 https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Gameplay/ArgonPro
 
-Those hitsounds are licensed, see https://github.com/ppy/osu-resources?tab=readme-ov-file#licence for more information.
+These hitsounds are licensed — see the license section for details:
+https://github.com/ppy/osu-resources?tab=readme-ov-file#licence
 
 ### Recommended osu! settings for this osu! skin
 These settings are from osu! stable, the options should be similar to osu! lazer.
