@@ -5,6 +5,15 @@ My lightweight mixed osu! skin for osu! standard.
 - In progress...
 - Check `todo.md`
 
+## Previews
+Only finished parts are shown.
+
+**Beatmap Selection with Thumbnails**
+<img src="https://xayanide.s-ul.eu/fTSabYbg" alt="Beatmap Selection with Thumbnails">
+
+**Beatmap Selection without Thumbnails**
+<img src="https://xayanide.s-ul.eu/jWx2eJhI" alt="Beatmap Selection without Thumbnails">
+
 ## Variants
 - **instafade** - download this one first, the one I always use all-round. no mod, easy mod, hidden mod, double time mod
 - **instafade-nc** - same as instafade, but with nightcore sounds for nightcore mod
