@@ -113,6 +113,9 @@ With Speakers Properties open, go to each specified tab then go to:
 > [!NOTE]
 > This will not be worked on. This is a known issue to all osu! skins that have instantly fading hitcircles.
 
+## osu! skin License, Credits, Acknowledgements
+Each variant of my mixed osu! skin has a credits-licenses.txt. See that file for more details
+
 ## Contributing
 Anything meaningful would be great! Make sure the checks are passing, and there are no reasons to deny your pull request.
 
