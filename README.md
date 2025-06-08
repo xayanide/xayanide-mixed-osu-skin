@@ -15,7 +15,7 @@ Only finished parts are shown.
 <img src="https://xayanide.s-ul.eu/jWx2eJhI" alt="Beatmap Selection without Thumbnails">
 
 ## Variants
-- **instafade** - download this one first, the one I always use all-round. NM, HD, EZ, EZHD, HR, HDHR, DT, DTHD
+- **instafade** - download this one first, the one I always use all-round. NM, HD, EZ, EZHD, HR, HDHR, DT, DTHD, DTHR, HDDTHR
 - **instafade-nc** - same as instafade, but with nightcore sounds for nightcore mod
 - **classic** - non-instafade, an attempt to recreate the instafade hitcircles. I barely use this at all. Can help with easy mod.
 - **classic-nightcore** - same as classic, but with nightcore sounds for nightcore mod
