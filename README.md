@@ -110,6 +110,7 @@ With Speakers Properties open, go to each specified tab then go to:
 
 ## Known Issues
 - **instafade**: After hitcircle combo 9, the hitcircle numbers overlaps with each other
+- **instafade**: Some circles have a visible small box or dot at the middle.
 > [!NOTE]
 > This will not be worked on. This is a known issue to all osu! skins that have instantly fading hitcircles.
 
