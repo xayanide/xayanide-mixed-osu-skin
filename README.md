@@ -57,7 +57,6 @@ These settings are from osu! stable, the options should be similar to osu! lazer
 | :--- | :--- | :--- | :---: |
 | Graphics | Detail settings | All | off |
 | Gameplay | General | Background dim | 100% |
-| | | Don't change dim level during breaks | on |
 | | | Always show key overlay | on |
 | | Song select | Show thumbnails | off |
 | Audio | Volume | Master | <=100% (depends on audio device) |
