@@ -129,7 +129,6 @@ control mmsys.cpl sounds
 > [!TIP]
 > If the modern settings UI opens, click **"Sound Control Panel"** under the *Related settings* section.
 
-
 3. Moving on, go to the `Playback` tab.
 4. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
 5. With `Properties` tab open. Navigate to the specified tab and sections and apply the following settings:
