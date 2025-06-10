@@ -136,7 +136,7 @@ mmsys.cpl
 |Tab|Section|Option|Recommended State|
 | :--- | :--- | :--- | :---: |
 | Advanced | Default Format | | `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` |
-| Enhancements | | Disable all sound effects | ✓ (checked) |
+| Enhancements | | Disable all sound effects | on |
 | Spatial Sound | Spatial sound format | | off |
 
 > [!NOTE]
