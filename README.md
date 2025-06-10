@@ -21,6 +21,15 @@ Only finished parts are shown.
 - **classic-nightcore** - same as classic, but with nightcore sounds for nightcore mod
 - **classic-mapping** - same as classic, but with nightcore and hit sound samples for mapping
 
+## Compliance
+
+This osu! skin follows the commonly accepted **osu! community skinning standards**, as compiled and maintained by the osu! community:
+
+- [Community Skinning Standards Spreadsheet - RockRoller)](https://docs.google.com/spreadsheets/d/1bhnV-CQRMy3Z0npQd9XSoTdkYxz0ew5e648S00qkJZ8)
+- [Skinnable Files List - Haskorion](https://osu.ppy.sh/community/forums/topics/186787)
+
+> These resources are unofficial but widely respected within the osu! skinning community. The spreadsheet is maintained by RockRoller and is based on extensive research across stable versions of osu!
+
 ## Prerequisites
 - [osu! stable](https://osu.ppy.sh/home/download) (or [osu! lazer](https://github.com/ppy/osu))
 
