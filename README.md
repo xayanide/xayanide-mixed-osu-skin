@@ -111,9 +111,28 @@ These settings are from osu! stable, the options should be similar to osu! lazer
 | | | Use combo colour as tint for slider ball | off |
 
 ### Recommended operating system settings for this osu! skin
+
 These settings are from Windows 10.
 
-With `Speakers` Properties open, go to each specified tab then go to:
+To adjust advanced audio settings (like sample rate, bit depth, or exclusive mode), it's often best to use the classic Sound control panel instead of the newer Windows Settings UI. There are many methods, I'll just write the simplest ones
+
+### Method 1: Using Run
+1. Press `Windows + R` to open the Run dialog.
+2. Type the following and press Enter:
+```shell
+control mmsys.cpl sounds
+```
+
+### Method 2: From the Taskbar
+1. Right-click the 🔊 **volume icon** in the system tray.
+2. Select **"Sounds"** (or **"Open Sound settings"**).
+> [!TIP]
+> If the modern settings UI opens, click **"Sound Control Panel"** under the *Related settings* section.
+
+
+3. Moving on, go to the `Playback` tab.
+4. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
+5. With `Properties` tab open. Navigate to the specified tab and sections and apply the following settings:
 
 **Advanced -> Default Format**
 - Select `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)`, higher than that is unnecessary and adds overhead, 24-bit is useful for recording/mixing, not for playback.
