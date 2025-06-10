@@ -95,7 +95,7 @@ https://skins.osuck.net/skins/3630
 ### Recommended osu! settings for this osu! skin
 These settings are from osu! stable, the options should be similar to osu! lazer.
 
-|Setting Category|Setting Section|Option|Recommended State|
+|Setting Category|Category Section|Option|Recommended State|
 | :--- | :--- | :--- | :---: |
 | Graphics | Detail settings | * (All) | off |
 | Gameplay | General | Background dim | 100% |
@@ -133,7 +133,7 @@ mmsys.cpl
 4. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
 5. With `Properties` window open. Navigate to the specified tab and sections and apply the following settings:
 
-| Tab | Section | Option | Recommended State |
+|Tab|Section|Option|Recommended State|
 | :--- | :--- | :--- | :---: |
 | Advanced | Default Format | | `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` |
 | Enhancements | | Disable all sound effects | ✓ (checked) |
