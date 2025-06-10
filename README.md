@@ -120,7 +120,7 @@ To adjust advanced audio settings (like sample rate, bit depth, or exclusive mod
 1. Press `Windows key/Super key/Meta key + R` to open the Run dialog.
 2. Type the following and press Enter:
 ```shell
-control mmsys.cpl sounds
+mmsys.cpl
 ```
 
 ### Method 2: From the Taskbar
