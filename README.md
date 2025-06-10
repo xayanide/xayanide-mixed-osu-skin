@@ -15,11 +15,11 @@ Only finished parts are shown.
 
 ## Variants
 
-## Base variants
+### Base variants
 - **instafade** - as the name suggests. download this one first, the one I always use all-round. NM, HD, EZ, EZHD, HR, HDHR, DT, DTHD, DTHR, HDDTHR, DTHRFL, HDDTHRFL
 - **classic** - non-instafade. an attempt to recreate hitcircle@2x and hitcircleoverlay@2x from its instafade hitcircles. I barely use this at all. Can help with easy mod.
 
-## Optional variants
+### Optional variants
 - **instafade-nc** - same as instafade, but with nightcore sounds for nightcore mod
 - **classic-nc** - same as classic, but with nightcore sounds for nightcore mod
 - **classic-mapping** - same as classic, but with nightcore and hitsound sample sets for mapping
@@ -43,7 +43,7 @@ These are meant to maintain familiarity and predictability for players used to o
 
 ## Hitsounds and Compliance
 
-## Official Hitsounds
+### Official Hitsounds
 
 You can replace the hitsounds in this osu! skin with ones you prefer, but I recommend first trying the **Argon Pro hitsound pack** from osu!lazer. These are official hitsounds made by the osu! team and follow their own internal standards ensuring consistent quality such as:
 
