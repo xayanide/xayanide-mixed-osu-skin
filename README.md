@@ -28,6 +28,7 @@ This osu! skin follows the commonly accepted **osu! community skinning standards
 - [osu! - Skinnable Files - Detailed List Google Spreadsheet - RockRoller](https://docs.google.com/spreadsheets/d/1bhnV-CQRMy3Z0npQd9XSoTdkYxz0ew5e648S00qkJZ8)
 - [Skinnable Files List - Haskorion](https://osu.ppy.sh/community/forums/topics/186787)
 
+> [!TIP]
 > These resources are unofficial but widely respected within the osu! skinning community. The spreadsheet is maintained by RockRoller and is based on extensive research across stable versions of osu!
 
 Additionally, this osu! skin:
@@ -36,6 +37,38 @@ Additionally, this osu! skin:
 - May include text (such as labels or names) derived from the osu! default skin.
 
 These are meant to maintain familiarity and predictability for players used to osu!'s native UI and gameplay cues.
+
+## Official Hitsounds
+
+You can replace the hitsounds in this osu! skin with ones you prefer, but I recommend first trying the **Argon Pro hitsound pack** from osu!lazer. These are official hitsounds made by the osu! team and follow their own internal standards ensuring consistent quality such as:
+
+- Clean mastering
+- No leading delays
+- Reasonable and balanced volume levels
+
+Compared to many community-made hitsound sets, these are more likely to meet technical standards by default, though some community-made sets also sound great in practice.
+
+To experiment safely, I recommend duplicating your current skin and swapping only the hitsounds, so you can A/B test without losing your original configuration.
+
+You can find the Argon Pro hitsounds here (from the `osu-resources` repository):
+
+https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Gameplay/ArgonPro
+
+> [!NOTE]
+> These hitsounds are under a specific license. Please see the full terms here:  
+> https://github.com/ppy/osu-resources?tab=readme-ov-file#licence
+
+### Unofficial Hitsounds
+
+You might also enjoy the hitsounds from the following osu! skin:
+
+- **The hitsounds that come with my mixed osu! skin**
+
+- **Signaturka Tournament v1.0**  
+https://skins.osuck.net/skins/3630
+
+> [!WARNING]
+> While community-made hitsounds can sound great, I can't personally guarantee that they follow technical standards (e.g., clean mastering, no unintended delay, optimal volume balancing). Use your own judgment and always test for audio quality and sync in-game.
 
 ## Prerequisites
 - [osu! stable](https://osu.ppy.sh/home/download) (or [osu! lazer](https://github.com/ppy/osu))
@@ -53,24 +86,6 @@ These are meant to maintain familiarity and predictability for players used to o
 1. With osu! open. Open Options menu. Shortcut is `CTRL + O`.
 2. Navigate to `Skin` category, navigate to the `Skin` section.
 3. At `Current skin`, select the osu! skin.
-
-## Hitsounds
-You can replace them with hitsounds you prefer, but I suggest first trying the **Argon Pro hitsound pack** from osu!lazer. These are the official hitsounds made by the osu! team, and they follow their own recommended standards which likely ensures higher and more consistent quality (e.g. no leading delays, recommended volume levels, clean mastering) compared to third-party hitsounds from community-made skins, they sound good too imo.
-
-To test them, I recommend duplicating your current mixed skin and swapping only the hitsounds, so you can compare them without losing your original setup.
-
-You can find the hitsounds here (from the osu-resources repo):
-GitHub Directory:
-https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Gameplay/ArgonPro
-
-These hitsounds are licensed, see the license section for details:
-https://github.com/ppy/osu-resources?tab=readme-ov-file#licence
-
-You might also like the hitsounds from this osu! skin as well:
-
-Signaturka Tournament v1.0 osu skin - signaturka
-
-https://skins.osuck.net/skins/3630
 
 ### Recommended osu! settings for this osu! skin
 These settings are from osu! stable, the options should be similar to osu! lazer.
