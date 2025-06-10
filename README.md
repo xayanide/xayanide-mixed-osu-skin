@@ -133,11 +133,11 @@ mmsys.cpl
 4. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
 5. With `Properties` window open. Navigate to the specified tab and sections and apply the following settings:
 
-| Setting Category | Tab/Section | Option | Recommended State |
+| Tab | Section | Option | Recommended State |
 | :--- | :--- | :--- | :---: |
-| | Advanced | Default Format | `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` |
-| | Enhancements | Disable all sound effects | ✓ (checked) |
-| | Spatial Sound | Spatial sound format | Off |
+| Advanced | Default Format | | `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` |
+| Enhancements | | Disable all sound effects | ✓ (checked) |
+| Spatial Sound | Spatial sound format | | off |
 
 > [!NOTE]
 > Higher than `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` is unnecessary and can add overhead, 24-bit is useful for recording/mixing, not for playback.
