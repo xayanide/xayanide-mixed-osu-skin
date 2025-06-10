@@ -117,7 +117,7 @@ These settings are from Windows 10.
 To adjust advanced audio settings (like sample rate, bit depth, or exclusive mode), it's often best to use the classic Sound control panel instead of the newer Windows Settings UI. There are many methods, I'll just write the simplest ones
 
 ### Method 1: Using Run
-1. Press `Windows Key/Super key/Meta key + R` to open the Run dialog.
+1. Press `Windows key/Super key/Meta key + R` to open the Run dialog.
 2. Type the following and press Enter:
 ```shell
 control mmsys.cpl sounds
@@ -134,7 +134,7 @@ control mmsys.cpl sounds
 5. With `Properties` tab open. Navigate to the specified tab and sections and apply the following settings:
 
 **Advanced -> Default Format**
-- Select `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)`, higher than that is unnecessary and adds overhead, 24-bit is useful for recording/mixing, not for playback.
+- Select `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)`, higher than that is unnecessary and can add overhead, 24-bit is useful for recording/mixing, not for playback.
 > Sources: https://learn.microsoft.com/en-us/windows/win32/coreaudio/wasapi, pro audio software (DAWs, low-latency applications) and hardware forums
 
 **Spatial Sound -> Spatial sound format**
