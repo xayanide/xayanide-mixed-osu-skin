@@ -38,6 +38,8 @@ Additionally, this osu! skin:
 
 These are meant to maintain familiarity and predictability for players used to osu!'s native UI and gameplay cues.
 
+## Hitsounds and Compliance
+
 ## Official Hitsounds
 
 You can replace the hitsounds in this osu! skin with ones you prefer, but I recommend first trying the **Argon Pro hitsound pack** from osu!lazer. These are official hitsounds made by the osu! team and follow their own internal standards ensuring consistent quality such as:
