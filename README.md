@@ -144,24 +144,24 @@ mmsys.cpl
 - Tick or check the `Disable all sound effects` box.
 
 ## osu! skin Feature Overview
-- **instafade**: [Instantly fading hitcircles](https://skinship.xyz/guides/insta_fade_hc)
-- **instafade**:  Hitcircle colored between red and orange
-- **instafade**: One white combo color only
-- Obvious ranking letters
-- Increased distinction on song selection menu
+
+### Metadata
 - Skin.ini version 2.7
-- No redundant visual elements (e.g., anime girl on score screen, aesthetics on song selection)
+
+### Visual
+
+- **instafade**: [instantly fading hitcircles](https://skinship.xyz/guides/insta_fade_hc)
+- **instafade**: hitcircle is colored between red and orange
+- **instafade**: one combo color only, white
+- More obvious ranking letters
+- Increased distinction on beatmap selection
+- No redundant visual elements (e.g., anime girl on score screen, aesthetics on beatmap selection)
 - No slider follow circle
 - No slider end circle
 - No cursor expand
-- No menu click sounds
-- No key press sounds
-- No button click sounds
-- No sound when the cursor hovers over menus, keys and buttons
-- No sound applause sound
-- No sound when game is paused
 - No spinner background
-- No background when game is paused
+- Transparent score screen background
+- Transparent pause background
 - No combo bursts
 - Yellow cursor
 - Yellow cursor trail
@@ -174,6 +174,16 @@ mmsys.cpl
 - Numbers on hitcircles
 - Health bar with similar length and thickness to osu! Default skin's health bar
 - Small score and combo number elements (downscaled from osu! default skin's elements)
+
+### Auditory
+
+- No menu click sounds
+- No key press (typing) sounds
+- No button click sounds
+- No nightcore sounds
+- No applause sound
+- No paused sound
+- No menu hover, key and button sounds
 
 ## Known Issues
 - **instafade**: After hitcircle combo 9, the hitcircle numbers overlap with each other.
