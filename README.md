@@ -32,7 +32,7 @@ This osu! skin follows the commonly accepted **osu! community skinning standards
 - [Skinnable Files List - Haskorion](https://osu.ppy.sh/community/forums/topics/186787)
 
 > [!TIP]
-> These resources are unofficial but widely respected within the osu! skinning community. The spreadsheet is maintained by RockRoller and is based on extensive research across stable versions of osu!
+> These resources are unofficial but widely respected within the osu! skinning community. The spreadsheet is maintained by [RockRoller](https://osu.ppy.sh/users/8388854) and is based on extensive research across stable versions of osu!
 
 Additionally, this osu! skin:
 
