@@ -2,8 +2,7 @@
 My lightweight mixed osu! skin for osu! standard.
 
 ## Current state
-- In progress...
-- Check `todo.md`
+- Work in progress! See `TODO.md`.
 
 ## Previews
 Only finished parts are shown.
@@ -15,11 +14,15 @@ Only finished parts are shown.
 <img src="https://xayanide.s-ul.eu/jWx2eJhI" alt="Beatmap Selection without Thumbnails">
 
 ## Variants
-- **instafade** - download this one first, the one I always use all-round. NM, HD, EZ, EZHD, HR, HDHR, DT, DTHD, DTHR, HDDTHR, DTHRFL, HDDTHRFL
+
+## Base variants
+- **instafade** - as the name suggests. download this one first, the one I always use all-round. NM, HD, EZ, EZHD, HR, HDHR, DT, DTHD, DTHR, HDDTHR, DTHRFL, HDDTHRFL
+- **classic** - non-instafade. an attempt to recreate hitcircle@2x and hitcircleoverlay@2x from its instafade hitcircles. I barely use this at all. Can help with easy mod.
+
+## Optional variants
 - **instafade-nc** - same as instafade, but with nightcore sounds for nightcore mod
-- **classic** - non-instafade, an attempt to recreate the instafade hitcircles. I barely use this at all. Can help with easy mod.
-- **classic-nightcore** - same as classic, but with nightcore sounds for nightcore mod
-- **classic-mapping** - same as classic, but with nightcore and hit sound samples for mapping
+- **classic-nc** - same as classic, but with nightcore sounds for nightcore mod
+- **classic-mapping** - same as classic, but with nightcore and hitsound sample sets for mapping
 
 ## Compliance
 
@@ -148,12 +151,12 @@ With Speakers Properties open, go to each specified tab then go to:
 - Small score and combo number elements (downscaled from osu! default skin's elements)
 
 ## Known Issues
-- **instafade**: After hitcircle combo 9, the hitcircle numbers overlaps with each other
+- **instafade**: After hitcircle combo 9, the hitcircle numbers overlap with each other.
 > [!NOTE]
 > This will not be worked on. This is a known issue to all osu! skins that have instantly fading hitcircles.
 
 ## osu! skin License, Credits, Acknowledgements
-Each variant of my mixed osu! skin has a credits-licenses.txt. See that file for more details
+Each variant of my mixed osu! skin has a credits-licenses.txt. See that file for more details.
 
 ## Contributing
 Anything meaningful would be great! Make sure the checks are passing, and there are no reasons to deny your pull request.
