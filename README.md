@@ -114,7 +114,7 @@ These settings are from osu! stable, the options should be similar to osu! lazer
 
 These settings are from Windows 10.
 
-To adjust advanced audio settings (like sample rate, bit depth, or exclusive mode), it's often best to use the classic Sound control panel instead of the newer Windows Settings UI. There are many methods, I'll just write the simplest ones
+To adjust advanced audio settings, it's often best to use the classic Sound control panel instead of the newer Windows Settings UI. There are many methods, I'll just write the simplest ones
 
 ### Method 1: Using Run
 1. Press `Windows key/Super key/Meta key + R` to open the Run dialog.
