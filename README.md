@@ -131,7 +131,7 @@ control mmsys.cpl sounds
 
 3. Moving on, go to the `Playback` tab.
 4. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
-5. With `Properties` tab open. Navigate to the specified tab and sections and apply the following settings:
+5. With `Properties` window open. Navigate to the specified tab and sections and apply the following settings:
 
 **Advanced -> Default Format**
 - Select `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)`, higher than that is unnecessary and can add overhead, 24-bit is useful for recording/mixing, not for playback.
