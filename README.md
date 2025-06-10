@@ -113,10 +113,17 @@ These settings are from osu! stable, the options should be similar to osu! lazer
 ### Recommended operating system settings for this osu! skin
 These settings are from Windows 10.
 
-With Speakers Properties open, go to each specified tab then go to:
+With `Speakers` Properties open, go to each specified tab then go to:
+
+**Advanced -> Default Format**
+- Select `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)`, higher than that is unnecessary and adds overhead, 24-bit is useful for recording/mixing, not for playback.
+> Sources: https://learn.microsoft.com/en-us/windows/win32/coreaudio/wasapi, pro audio software (DAWs, low-latency applications) and hardware forums
 
 **Spatial Sound -> Spatial sound format**
 - Select `Off`.
+
+**Enhancements**
+- Tick or check the `Disable all sound effects` box.
 
 ## osu! skin Feature Overview
 - **instafade**: [Instantly fading hitcircles](https://skinship.xyz/guides/insta_fade_hc)
