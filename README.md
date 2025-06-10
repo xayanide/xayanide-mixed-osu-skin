@@ -141,7 +141,12 @@ mmsys.cpl
 
 > [!NOTE]
 > Higher than `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` is unnecessary and can add overhead, 24-bit is useful for recording/mixing, not for playback.
-> Sources: https://learn.microsoft.com/en-us/windows/win32/coreaudio/wasapi, pro audio software (DAWs, low-latency applications) and hardware forums
+> 
+> Sources:
+> - https://learn.microsoft.com/en-us/windows/win32/coreaudio/wasapi
+> - pro audio software (DAWs, low-latency applications)
+> - hardware forums
+> - articles
 
 ## osu! skin Feature Overview
 
