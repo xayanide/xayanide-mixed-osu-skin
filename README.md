@@ -59,6 +59,10 @@ https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Game
 These hitsounds are licensed, see the license section for details:
 https://github.com/ppy/osu-resources?tab=readme-ov-file#licence
 
+You might also like the hitsounds from this osu! skin as well:
+Signaturka Tournament v1.0 osu skin - signaturka
+https://skins.osuck.net/skins/3630
+
 ### Recommended osu! settings for this osu! skin
 These settings are from osu! stable, the options should be similar to osu! lazer.
 
