@@ -32,8 +32,10 @@ This osu! skin follows the commonly accepted **osu! community skinning standards
 
 Additionally, this osu! skin:
 
-- References certain sizes and layout alignments from the **official osu! default skin** on the Stable release stream.
-- May include text (such as labels or names) derived from the osu! default skin
+- References certain sizes and layout alignments of elements from the **official osu! default skin** on the Stable release stream.
+- May include text (such as labels or names) derived from the osu! default skin.
+
+These are meant to maintain familiarity and predictability for players used to osu!'s native UI and gameplay cues.
 
 ## Prerequisites
 - [osu! stable](https://osu.ppy.sh/home/download) (or [osu! lazer](https://github.com/ppy/osu))
