@@ -124,14 +124,14 @@ mmsys.cpl
 ```
 
 ### Method 2: From the Taskbar
-1. Right-click the 🔊 **volume icon** in the system tray.
+1. Right-click the **volume icon** in the system tray.
 2. Select **"Sounds"** (or **"Open Sound settings"**).
 > [!TIP]
 > If the modern settings UI opens, click **"Sound Control Panel"** under the *Related settings* section.
 
-3. Moving on, go to the `Playback` tab.
-4. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
-5. With `Properties` window open. Navigate to the specified tab and sections and apply the following settings:
+1. Moving on, go to the `Playback` tab.
+2. Select your active output device (e.g. Speakers or Headphones), then click **Properties**.
+3. With `Properties` window open. Navigate to the specified tab and sections and apply the following settings:
 
 |Tab|Section|Option|Recommended State|
 | :--- | :--- | :--- | :---: |
