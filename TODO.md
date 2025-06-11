@@ -1,6 +1,8 @@
 # todo
 
 - blank images must be SD. Their file names should not be suffixed with `@2x`.
+- replace `mode-{n}-med` elements. must follow recommended `@2x` sizes (256x256)
+- replace `mode-{n}-small` elements. must follow recommended `@2x` sizes (64x64)
 - **instafade**: `@2x` elements for `score-{n}` and `default-{n}`. must be visually the same size as SD in-game
 - find origin for followpoint-{n} and their `@2x` elements. must be visually the same size as SD in-game
 - replace mod icons. must have correct labels and look exactly like lazer's. must follow recommended `@2x` sizes (128x128).
