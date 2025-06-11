@@ -1,6 +1,6 @@
 # todo
 
-- blank images and audio files must have the same metadata according to their. their file sizes, date modified and date created. 95 bytes for blank images, 44 bytes for blank blank audio files.
+- blank images and audio files must have the same metadata according to their file type. their file sizes, date modified and date created. 95 bytes for blank images, 44 bytes for blank blank audio files.
 - blank images must be SD. Their file names should not be suffixed with `@2x`.
 - replace `mode-{n}-med` elements. must follow recommended `@2x` sizes (256x256)
 - replace `mode-{n}-small` elements. must follow recommended `@2x` sizes (64x64)
