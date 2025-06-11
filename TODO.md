@@ -5,7 +5,7 @@
 - replace `mode-{n}-med` elements. must follow recommended `@2x` sizes (256x256)
 - replace `mode-{n}-small` elements. must follow recommended `@2x` sizes (64x64)
 - **instafade**: `@2x` elements for `score-{n}` and `default-{n}`. must be visually the same size as SD in-game
-- complete the classic variant by finishing `hitcircle@2x.png` and `hitcircleoverlay@2x.png`, equivalent of the instafade variant, may need its origins
+- **classic**: finish `hitcircle@2x.png` and `hitcircleoverlay@2x.png`, equivalent of the instafade variant, may need its origins
 - find origin for followpoint-{n} and their `@2x` elements. must be visually the same size as SD in-game
 - replace mod icons. must have correct labels and look exactly like lazer's. must follow recommended `@2x` sizes (128x128).
 - replace ranking letters. must look exactly like lazer's. `ranking-{n}-small` must follow recommended `@2x` sizes (68x80).
