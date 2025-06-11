@@ -8,5 +8,6 @@
 - replace mod icons. must have correct labels and look exactly like lazer's. must follow recommended `@2x` sizes (128x128).
 - replace ranking letters. must look exactly like lazer's. `ranking-{n}-small` must follow recommended `@2x` sizes (68x80).
 - create SD elements from all `@2x` elements
+- try to override default elements with files equivalent to them that were prefixed with `TODO-`
 - complete credits-licenses.txt
 - **impossible**: find a way to get rid of the rotating panel lights from ranking panel (score and results screen) on osu! stable
