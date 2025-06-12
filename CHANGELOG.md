@@ -2,6 +2,7 @@
 
 # 1.1.0
 
+- replace: replacing whimping anime girl combobreak.wav with argon's
 - refactor(classic): remove commented out Combo5
 - feat: add hitsounds folder to choose from
 - feat: minor lazer support, just the hud
