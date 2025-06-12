@@ -137,7 +137,8 @@ mmsys.cpl
 
 |Tab|Section|Option|Recommended State|
 | :--- | :--- | :--- | :---: |
-| Advanced | Default Format | | `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` |
+| Advanced (Ignore this row entirely on Windows 11) | Default Format | | `16 bit, 44100 Hz (CD Quality)` or `16 bit, 48000 Hz (DVD Quality)` |
+| | Signal Enhancements | Enable audio enhancements | off |
 | Enhancements | | Disable all sound effects | on |
 | Spatial Sound | Spatial sound format | | off |
 
