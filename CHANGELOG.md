@@ -2,6 +2,7 @@
 
 # 1.1.0
 
+- feat: use customized argon pro hud components
 - replace: replacing whimping anime girl combobreak.wav with argon's
 - refactor(classic): remove commented out Combo5
 - feat: add hitsounds folder to choose from
