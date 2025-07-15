@@ -20,8 +20,6 @@ Only finished parts are shown.
 - **classic** - non-instafade. an attempt to recreate hitcircle@2x and hitcircleoverlay@2x from its instafade hitcircles. I barely use this at all. Can help with easy mod.
 
 ### Optional variants
-- **instafade-nc** - same as instafade, but with nightcore sounds for nightcore mod
-- **classic-nc** - same as classic, but with nightcore sounds for nightcore mod
 - **classic-mapping** - same as classic, but with nightcore and hitsound sample sets for mapping
 
 ## Compliance
