@@ -13,7 +13,7 @@ This osu! skin is focused for low-end hardware, straightforwardness, intuitivene
 Because of that, it's forced to look minamalistic, low quality, with some elements looking slightly pixelated and doesn't have anything good to look at like arts and anime girls.
 
 What makes this different:
-- 5 Variants: classic, classic-nc, instafade, instafade-nc, mapping
+- 3 Variants: classic, instafade, classic-mapping
 - Low overall .osk file size
 - No redundant elements. It doesn't have a lot of visually or audibly distracting elements
 - Blank transparent images all consume 95 bytes in file size
@@ -74,6 +74,8 @@ You are granted permission to use the elements contained within this archive as 
 You are NOT permitted to use these graphics outside of skins and/or beatmaps. This includes using them on other websites, games, products etc.
 
 If you would like to use the resources outside of the scope provided above, please contact me at pe@ppy.sh
+
+- https://github.com/ppy/osu-resources/blob/1e034906d5e49fba67cf0cf376824bdf9efd2de7/LICENCE.md
 
 3. SOURCES:
 This is the list of the websites where the assets are from. Each source have their have own licenses.
@@ -287,6 +289,17 @@ This section includes credits for all sounds from the osu! skin.
 
 - Unknown origin
     - Element(s):
+        - metronomelow
+        - spinnerbonus
+    - URL(s):
+        - Unknown
+    - Author(s):
+        - Unknown
+    - License(s):
+        - Unknown
+
+- osu! lazer argon pro
+    - Element(s):
         - combobreak
         - drum-hitclap
         - drum-hitfinish
@@ -298,19 +311,36 @@ This section includes credits for all sounds from the osu! skin.
         - normal-hitnormal
         - normal-hitwhistle
         - normal-slidertick
-        - metronomelow
         - soft-hitclap
         - soft-hitfinish
         - soft-hitnormal
         - soft-hitwhistle
         - soft-slidertick
-        - spinnerbonus
     - URL(s):
-        - Unknown
+        - https://github.com/ppy/osu-resources
     - Author(s):
-        - Unknown
+        - ppy Pty Ltd
+        - Dean Herbert
+        - peppy
+        - ppy
     - License(s):
-        - Unknown
+        - https://github.com/ppy/osu-resources/blob/1e034906d5e49fba67cf0cf376824bdf9efd2de7/LICENCE.md
+
+- osu! lazer classic
+    - Element(s):
+        - nightcore-clap
+        - nightcore-finish
+        - nightcore-hat
+        - nightcore-kick
+    - URL(s):
+        - https://github.com/ppy/osu-resources
+    - Author(s):
+        - ppy Pty Ltd
+        - Dean Herbert
+        - peppy
+        - ppy
+    - License(s):
+        - https://github.com/ppy/osu-resources/blob/1e034906d5e49fba67cf0cf376824bdf9efd2de7/LICENCE.md
 
 - osu! default skin
     - Element(s):

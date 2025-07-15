@@ -1,5 +1,9 @@
 # Changelog
 
+# 1.2.0
+
+- feat: use argon pro hitsound sets as default
+
 # 1.1.0
 
 - feat: use customized argon pro hud components
