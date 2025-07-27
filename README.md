@@ -8,10 +8,10 @@ My lightweight mixed osu! skin for osu! standard.
 Only finished parts are shown.
 
 **Beatmap Selection with Thumbnails**
-<img src="https://xayanide.s-ul.eu/fTSabYbg" alt="Beatmap Selection with Thumbnails">
+<img src="https://xayanide.s-ul.eu/3hAFmUxF" alt="Beatmap Selection with Thumbnails">
 
 **Beatmap Selection without Thumbnails**
-<img src="https://xayanide.s-ul.eu/jWx2eJhI" alt="Beatmap Selection without Thumbnails">
+<img src="https://xayanide.s-ul.eu/yl8naJUV" alt="Beatmap Selection without Thumbnails">
 
 ## Variants
 
