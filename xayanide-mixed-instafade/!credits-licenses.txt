@@ -273,6 +273,16 @@ This section includes sources of images used in the osu! skin.
     - License(s):
         - Unknown
 
+- argon remake osu! skin
+    - Element(s):
+        - cursor
+    - URL(s):
+        - https://www.reddit.com/r/OsuSkins/comments/y11vk2/lazer_argon_skin_remake_std_gameplay_only/
+    - Author(s):
+        - Unknown
+    - License(s):
+        - Unknown
+
 - Unknown origin
     - Element(s):
         - followpoint-1

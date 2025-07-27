@@ -3,6 +3,7 @@
 # 1.2.0
 
 - feat: use argon pro hitsound sets as default
+- feat: use argon remake cursor@2x.png as default
 
 # 1.1.0
 
